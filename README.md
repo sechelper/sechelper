@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/sechelper"><img width="80%" alt="" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/sechelper"><img width="80%" alt="" src="https://paper.static.secself.com/img/2023/05/09/gh-readme-header.png" /></a></p>
 
 <br />
 
