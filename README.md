@@ -10,7 +10,7 @@
 
 - 🚀 分享： <a href="https://paper.secself.com/img/qrcode/mp_qrcode2.png" target="view_window">公众号</a> |   [全网首创，坤式网安学习法，最屌没有之一 ](http://cybersecurity-guid.book.secself.com) | [黑帽编程计划-HCP](https://hcp.secself.com) | [论坛](https://secself.com/) |[博客](https://blog.sechelper.com/) 
 
-- 🎮 技术宅，主机玩家，又菜有好玩的，打游戏求带。
+- 🎮 技术宅，主机玩家，又菜又爱玩，求带。
 
 - 💰 成为坤哥的金主老爷 <a href="http://show.secself.com" target="view_window">【传送门】</a>
 
