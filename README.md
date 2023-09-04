@@ -16,5 +16,5 @@
 
 - 💬 微信：aptepoch（备注来意） 
 
-| <a href="https://github.com/sechelper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sechelper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sechelper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sechelper&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sechelper"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sechelper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sechelper"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sechelper&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
