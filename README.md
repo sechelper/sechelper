@@ -12,7 +12,7 @@
 
 - 🎮 技术宅，主机玩家，又菜又爱玩，求带。
 
-- 💰 成为坤哥的金主老爷 <a href="http://show.secself.com" target="view_window">【传送门】</a>
+- 💰 成为坤哥的金主老爷 <a href="http://hackme.cc" target="view_window">【传送门】</a>
 
 - 💬 微信：aptepoch（备注来意） 
 
