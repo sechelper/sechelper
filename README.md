@@ -8,7 +8,7 @@
 
 - 📺 [【关注B站】](https://space.bilibili.com/1233892570) 每晚20:00-23:00准时直播，心里默念三遍，不要错过。
 
-- 🚀 分享： <a href="https://paper.secself.com/img/qrcode/mp_qrcode2.png" target="view_window">公众号</a> |   [全网首创，坤式网安学习法，最屌没有之一 ](http://cybersecurity-guid.book.secself.com) | [黑帽编程计划-HCP](https://hcp.secself.com) | [论坛](https://secself.com/) |[博客](https://blog.sechelper.com/) 
+- 🚀 分享： <a href="https://paper.secself.com/img/qrcode/mp_qrcode2.png" target="view_window">公众号</a> |   [全网首创，坤式网安学习法，最屌没有之一 ](http://cybersecurity-guid.book.secself.com) | [黑帽编程计划-HCP](https://hcp.secself.com) | [论坛](https://secself.com/)
 
 - 🎮 技术宅，主机玩家，又菜又爱玩，求带。
 
